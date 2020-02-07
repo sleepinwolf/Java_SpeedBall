@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c928d9a8-03a1-4414-b750-db4a1d269bd7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>in</find>
+      <find>run</find>
+      <find>gameovercou</find>
+      <find>dispose</find>
+      <find>automatic</find>
+      <find>repaint</find>
+      <find>setbound</find>
+      <find>connectDb</find>
+      <find>submi</find>
+      <find>textf</find>
+      <find>esc</find>
+      <find>endgame</find>
+      <find>kk</find>
+      <find>boolean</find>
+      <find>enum</find>
+      <find>turnoff</find>
+      <find>time</find>
+    </findStrings>
+  </component>
+  <component name="ProjectId" id="1XU5XRVUKdTWGh3F42HfPa6Hupy" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="NightProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NightProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NightProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NightProject" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NightProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NightProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NightProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NightProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="adrianpackage" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555871160833" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../db/mysql-connector-java-5.1.21.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="adrianpackage.Main" />
+      <module name="NightProject" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c928d9a8-03a1-4414-b750-db4a1d269bd7" name="Default Changelist" comment="" />
+      <created>1552695540827</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552695540827</updated>
+      <workItem from="1552695543894" duration="2680000" />
+      <workItem from="1552748908842" duration="6498000" />
+      <workItem from="1552838526794" duration="10229000" />
+      <workItem from="1552855222147" duration="760000" />
+      <workItem from="1552856230052" duration="650000" />
+      <workItem from="1552857029155" duration="1391000" />
+      <workItem from="1552896113969" duration="542000" />
+      <workItem from="1552928193480" duration="14520000" />
+      <workItem from="1552982538738" duration="46000" />
+      <workItem from="1552995537623" duration="248000" />
+      <workItem from="1553601424442" duration="1579000" />
+      <workItem from="1553900340033" duration="273000" />
+      <workItem from="1553900627990" duration="271000" />
+      <workItem from="1554203525087" duration="2852000" />
+      <workItem from="1554392648958" duration="1494000" />
+      <workItem from="1554985296529" duration="90000" />
+      <workItem from="1554985423478" duration="1022000" />
+      <workItem from="1555089045634" duration="517000" />
+      <workItem from="1555429579066" duration="40000" />
+      <workItem from="1555433469672" duration="1797000" />
+      <workItem from="1555488995267" duration="6309000" />
+      <workItem from="1555498830196" duration="6473000" />
+      <workItem from="1555508523050" duration="2886000" />
+      <workItem from="1555513500243" duration="3051000" />
+      <workItem from="1555524472006" duration="1855000" />
+      <workItem from="1555579265086" duration="44981000" />
+      <workItem from="1555627174128" duration="117000" />
+      <workItem from="1555656192829" duration="16768000" />
+      <workItem from="1555766949786" duration="3532000" />
+      <workItem from="1555771757552" duration="2295000" />
+      <workItem from="1555825815712" duration="19873000" />
+      <workItem from="1555869850509" duration="1172000" />
+      <workItem from="1581087876666" duration="433000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1340" height="215" key="GridCell.Tab.0.bottom" timestamp="1581088376903">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="215" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581088376903" />
+    <state width="1340" height="215" key="GridCell.Tab.0.center" timestamp="1581088376902">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="215" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581088376902" />
+    <state width="1340" height="215" key="GridCell.Tab.0.left" timestamp="1581088376902">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="215" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581088376902" />
+    <state width="1340" height="215" key="GridCell.Tab.0.right" timestamp="1581088376903">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="215" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581088376903" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1581087879411">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581087879411" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10.0.2+13 (3)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>NightProject</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
